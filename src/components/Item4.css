@@ -1,0 +1,111 @@
+.link-icon5 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100%;
+  object-fit: cover;
+}
+.container16 {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  border-radius: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container-wrapper4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7.1px 0 0;
+}
+.div33,
+.link-heading3 {
+  position: relative;
+  display: inline-block;
+}
+.link-heading3 {
+  line-height: 20px;
+  font-weight: 600;
+  min-width: 112px;
+}
+.div33 {
+  margin-right: -2.300000000000182px;
+  line-height: 21px;
+  min-width: 42.3px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.wrapper4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.b6 {
+  width: 16.4px;
+  position: relative;
+  font-size: 14.4px;
+  line-height: 18.72px;
+  display: flex;
+  align-items: center;
+}
+.b6,
+.div34,
+.frame-parent64 {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.frame-parent64 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.div34 {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 54px;
+  white-space: nowrap;
+}
+.frame-parent63,
+.item45,
+.link-heading-2-australia-e-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent63 {
+  flex-direction: row;
+  color: #ff9000;
+}
+.item45,
+.link-heading-2-australia-e-parent {
+  flex-direction: column;
+  gap: 17.1px;
+}
+.item45 {
+  width: 285px;
+  box-shadow: 0 3px 6px -5px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  background-color: #fff;
+  border: 2px solid #f5f5f8;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 25px 20px 34px;
+  gap: 34.2px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Inter;
+}

@@ -1,0 +1,231 @@
+.container-icon2 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.container-icon2,
+.container-parent1,
+.gradient3 {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.gradient3 {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.35), transparent 75%);
+  z-index: 1;
+}
+.container-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.travel-vacation4 {
+  position: relative;
+  line-height: 12px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 120px;
+}
+.background13 {
+  border-radius: 999px;
+  background-color: #818a91;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7.2px 14px;
+  white-space: nowrap;
+  z-index: 2;
+}
+.photo-2023-11-08-17-15-40jpg-icon4 {
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -30px;
+  left: 30px;
+  border-radius: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 2;
+}
+.link9 {
+  align-self: stretch;
+  height: 359.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 20px;
+  box-sizing: border-box;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.best-cities-in,
+.next-european-escapade {
+  margin: 0;
+}
+.best-cities-in-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28.8px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.best-cities-in-italy-to-visit-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 30px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: Montserrat;
+}
+.and-square-is,
+.best-cities-in1,
+.on-a-spell-binding {
+  display: block;
+}
+.best-cities-in-container1 {
+  margin: 0;
+  height: 63px;
+  position: relative;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+}
+.best-cities-in-italy-to-visit-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 9px 4.1px 30px;
+  font-size: 14px;
+  color: #777;
+}
+.link-read4 {
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 83.7px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-read-more-about-best-ci-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 30px;
+}
+.claudia4,
+.div11,
+.div12,
+.div13,
+.no-comments4 {
+  position: relative;
+  line-height: 15.6px;
+  display: inline-block;
+  min-width: 44.4px;
+}
+.div11,
+.div12,
+.div13,
+.no-comments4 {
+  line-height: 16px;
+  min-width: 7px;
+}
+.div12,
+.div13,
+.no-comments4 {
+  line-height: 15.6px;
+  min-width: 67px;
+}
+.div13,
+.no-comments4 {
+  line-height: 16px;
+  min-width: 7px;
+}
+.no-comments4 {
+  line-height: 15.6px;
+  min-width: 84.3px;
+}
+.paragraphhorizontalborder4 {
+  align-self: stretch;
+  border-top: 1px solid #eaeaea;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 30px 15.4px;
+  gap: 3.4px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  color: #adadad;
+}
+.article14,
+.frame-parent45,
+.frame-parent46 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent46 {
+  align-self: stretch;
+  gap: 20px;
+  font-size: 12px;
+  color: #334862;
+}
+.article14,
+.frame-parent45 {
+  max-width: 100%;
+}
+.frame-parent45 {
+  align-self: stretch;
+  gap: 25.4px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  font-size: 24px;
+  color: #000;
+}
+.article14 {
+  flex: 1;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: #fff;
+  overflow: hidden;
+  gap: 44.1px;
+  min-width: 354px;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .best-cities-in-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .div11,
+  .div13 {
+    width: 100%;
+    height: 7px;
+  }
+  .paragraphhorizontalborder4 {
+    flex-wrap: wrap;
+  }
+}

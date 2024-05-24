@@ -1,0 +1,37 @@
+.when-will-i {
+  position: relative;
+  line-height: 24px;
+}
+.button-toggle1 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  object-fit: contain;
+}
+.border2,
+.link13 {
+  border-radius: 16px;
+  border: 2px solid #f5f5f8;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.border2 {
+  height: 72px;
+  width: 820px;
+  position: relative;
+  display: none;
+}
+.link13 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 21px 32px 21px 28px;
+  gap: 20px;
+  z-index: 1;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "Helvetica Neue";
+}

@@ -1,0 +1,67 @@
+.svg-icon1 {
+  width: 56px;
+  height: 56px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.svg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.heading-310 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.cards-when-you,
+.with-digital-esims {
+  display: block;
+}
+.with-digital-esims-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter;
+  color: #404963;
+}
+.heading-3-digital-convenienc-parent,
+.item5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.heading-3-digital-convenienc-parent {
+  flex-direction: column;
+  gap: 8.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.item5 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 29px 0 0.5px;
+  box-sizing: border-box;
+  row-gap: 20px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: "Times New Roman";
+}
+@media screen and (max-width: 750px) {
+  .item5 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-310 {
+    font-size: 19px;
+  }
+}

@@ -1,0 +1,141 @@
+.make-a-difference,
+.volunteer-opportunities {
+  margin: 0;
+}
+.make-a-difference-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28.8px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.make-a-difference-this-holiday-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 30px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: Montserrat;
+}
+.make-a-difference1,
+.most-every-little,
+.of-giving-spread {
+  display: block;
+}
+.make-a-difference-container1 {
+  margin: 0;
+  height: 63px;
+  position: relative;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+}
+.make-a-difference-this-holiday-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 3px 4.1px 30px;
+  font-size: 14px;
+  color: #777;
+}
+.link-read6 {
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 83.7px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-read-more-about-make-a-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 30px;
+}
+.claudia6,
+.div17,
+.div18,
+.div19,
+.no-comments6 {
+  position: relative;
+  line-height: 15.6px;
+  display: inline-block;
+  min-width: 44.4px;
+}
+.div17,
+.div18,
+.div19,
+.no-comments6 {
+  line-height: 16px;
+  min-width: 7px;
+}
+.div18,
+.div19,
+.no-comments6 {
+  line-height: 15.6px;
+  min-width: 67px;
+}
+.div19,
+.no-comments6 {
+  line-height: 16px;
+  min-width: 7px;
+}
+.no-comments6 {
+  line-height: 15.6px;
+  min-width: 84.3px;
+}
+.frame-parent49,
+.frame-parent50,
+.paragraphhorizontalborder6 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.paragraphhorizontalborder6 {
+  border-top: 1px solid #eaeaea;
+  flex-direction: row;
+  padding: 14px 30px 15.4px;
+  gap: 3.4px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  color: #adadad;
+}
+.frame-parent49,
+.frame-parent50 {
+  flex-direction: column;
+  gap: 20px;
+  font-size: 12px;
+  color: #334862;
+}
+.frame-parent49 {
+  gap: 25.4px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .make-a-difference-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .div17,
+  .div19 {
+    width: 100%;
+    height: 7px;
+  }
+  .paragraphhorizontalborder6 {
+    flex-wrap: wrap;
+  }
+}

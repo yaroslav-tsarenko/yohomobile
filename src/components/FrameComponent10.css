@@ -1,0 +1,238 @@
+.link-logo-bpng,
+.overlay {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+}
+.overlay {
+  width: 1920px;
+  background-color: rgba(255, 255, 255, 0.9);
+  display: none;
+}
+.link-logo-bpng {
+  height: 38px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-logo-bpng-wrapper {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 13.5px 0 0;
+  box-sizing: border-box;
+}
+.item-link2 {
+  text-decoration: none;
+  position: relative;
+  line-height: 19px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 40px;
+}
+.item-link-home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 23px 0 0;
+}
+.buy-esim {
+  text-decoration: none;
+  position: relative;
+  line-height: 19px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 67px;
+  white-space: nowrap;
+}
+.image-icon20 {
+  width: 14px;
+  height: 14px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper12,
+.item-link-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.5px 0 0;
+}
+.item-link-menu {
+  flex-direction: row;
+  padding: 23px 0;
+  gap: 6.2px;
+  cursor: pointer;
+  font-size: 14.8px;
+}
+.get-started,
+.image-icon21 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.get-started {
+  text-decoration: none;
+  line-height: 19px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 73px;
+  white-space: nowrap;
+}
+.image-icon21 {
+  width: 14px;
+  height: 14px;
+  object-fit: cover;
+}
+.image-wrapper13,
+.item-link-menu1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.5px 0 0;
+}
+.item-link-menu1 {
+  flex-direction: row;
+  padding: 23px 0;
+  gap: 6.4px;
+  cursor: pointer;
+  font-size: 13px;
+}
+.about-us2,
+.image-icon22 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.about-us2 {
+  text-decoration: none;
+  line-height: 19px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 62px;
+  white-space: nowrap;
+}
+.image-icon22 {
+  width: 14px;
+  height: 14px;
+  object-fit: cover;
+}
+.image-wrapper14,
+.item-link-menu2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.5px 0 0;
+}
+.item-link-menu2 {
+  flex-direction: row;
+  padding: 23px 0;
+  gap: 6.8px;
+  cursor: pointer;
+}
+.item-link3 {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  line-height: 19px;
+  font-weight: 500;
+  color: inherit;
+  white-space: nowrap;
+}
+.item-link-my-esimstopup-container {
+  width: 148.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 23px 0 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.item-link-cartpng {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.item-link-cartpng-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.5px 0 0;
+}
+.frame-parent41 {
+  width: 632.7px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-parent41,
+.header-header,
+.header-header-wrapper,
+.horizontalborder1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.horizontalborder1 {
+  flex: 1;
+  border-bottom: 1px solid #f5f5f8;
+  box-sizing: border-box;
+  justify-content: center;
+  padding: 0 20px;
+  gap: 367.3px;
+  z-index: 1;
+}
+.header-header,
+.header-header-wrapper {
+  justify-content: flex-start;
+}
+.header-header {
+  flex: 1;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+  background-color: rgba(255, 255, 255, 0.9);
+  text-align: left;
+  font-size: 13.9px;
+  color: #000;
+  font-family: Inter;
+}
+.header-header-wrapper {
+  align-self: stretch;
+  padding: 0 0 85px;
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+}
+@media screen and (max-width: 1325px) {
+  .horizontalborder1 {
+    gap: 184px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .frame-parent41 {
+    display: none;
+  }
+  .horizontalborder1 {
+    gap: 92px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .horizontalborder1 {
+    gap: 46px;
+  }
+}

@@ -1,0 +1,113 @@
+.link-icon2 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100%;
+  object-fit: cover;
+}
+.container12 {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  border-radius: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7.1px 0 0;
+}
+.div25,
+.link-heading {
+  position: relative;
+  display: inline-block;
+}
+.link-heading {
+  line-height: 20px;
+  font-weight: 600;
+  min-width: 119px;
+}
+.div25 {
+  margin-right: -0.3999999999996362px;
+  line-height: 21px;
+  min-width: 49.3px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.b2,
+.frame {
+  display: flex;
+}
+.frame {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.b2 {
+  width: 16.4px;
+  position: relative;
+  font-size: 14.4px;
+  line-height: 18.72px;
+  align-items: center;
+}
+.b2,
+.div26,
+.frame-parent58 {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.frame-parent58 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.div26 {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 54px;
+  white-space: nowrap;
+}
+.frame-parent57,
+.item41,
+.link-heading-2-indonesia-e-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent57 {
+  flex-direction: row;
+  color: #ff9000;
+}
+.item41,
+.link-heading-2-indonesia-e-parent {
+  flex-direction: column;
+  gap: 17.1px;
+}
+.item41 {
+  flex: 1;
+  box-shadow: 0 3px 6px -5px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  background-color: #fff;
+  border: 2px solid #f5f5f8;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 44px 20px 53px;
+  gap: 34.2px;
+  min-width: 171px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Inter;
+}

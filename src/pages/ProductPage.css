@@ -1,0 +1,150 @@
+.strong-coverage,
+.strong-data,
+.strong-validity {
+  position: relative;
+  line-height: 24px;
+  display: none;
+  min-width: 41px;
+}
+.strong-coverage,
+.strong-validity {
+  min-width: 66.1px;
+}
+.strong-coverage {
+  min-width: 83px;
+}
+.united-states-us {
+  position: absolute;
+  top: -3.5px;
+  left: 0;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.container1 {
+  width: 149.5px;
+  height: 17px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.strong-esim,
+.strong-mobile {
+  position: relative;
+  line-height: 24px;
+  display: none;
+}
+.yes {
+  position: absolute;
+  top: -3.5px;
+  left: 0;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  min-width: 26.5px;
+}
+.container2 {
+  width: 26.1px;
+  height: 17px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.strong-hotspot {
+  line-height: 24px;
+}
+.excellent,
+.starpng-icon,
+.strong-hotspot {
+  position: relative;
+  display: none;
+}
+.excellent {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 500;
+  min-width: 76.1px;
+}
+.starpng-icon {
+  width: 84.7px;
+  height: 14px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.background3 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 2;
+}
+.customer-reviews,
+.frame-section {
+  align-self: stretch;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-section {
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 119.1px;
+  position: relative;
+  gap: 23.5px;
+}
+.customer-reviews {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  margin-top: -20.1px;
+}
+.frame-main,
+.productpage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-main {
+  align-self: stretch;
+  max-width: 100%;
+}
+.productpage {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #5b5b5b;
+  overflow-y: auto;
+  gap: 30px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "Helvetica Neue";
+}
+@media screen and (max-width: 1300px) {
+  .frame-section {
+    padding-bottom: 77px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .frame-section {
+    padding-bottom: 50px;
+    box-sizing: border-box;
+  }
+}

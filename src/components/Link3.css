@@ -1,0 +1,74 @@
+.container-icon {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.container-group,
+.container-icon,
+.gradient1 {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.gradient1 {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.35), transparent 75%);
+  z-index: 1;
+}
+.container-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.travel-vacation2 {
+  position: relative;
+  line-height: 12px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 120px;
+}
+.background11 {
+  border-radius: 999px;
+  background-color: #818a91;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7.2px 14px;
+  white-space: nowrap;
+  z-index: 2;
+}
+.photo-2023-11-08-17-15-40jpg-icon2 {
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -30px;
+  left: 30px;
+  border-radius: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 2;
+}
+.link7 {
+  align-self: stretch;
+  height: 359.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 20px;
+  box-sizing: border-box;
+  position: relative;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: Inter;
+}

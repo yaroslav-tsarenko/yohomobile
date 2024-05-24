@@ -1,0 +1,253 @@
+.heading-43,
+.heading-44 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 700;
+}
+.heading-43 {
+  display: inline-block;
+  min-width: 97px;
+}
+.heading-44 {
+  font-style: italic;
+}
+.image-icon17 {
+  width: 14px;
+  height: 14px;
+  position: relative;
+}
+.image-wrapper9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 4.3px;
+}
+.robinson-road-singapore {
+  position: relative;
+  line-height: 24px;
+}
+.frame-parent38 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.image-icon18 {
+  width: 14px;
+  height: 14px;
+  position: relative;
+}
+.image-wrapper10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3.8px;
+}
+.span4 {
+  color: #ff9000;
+}
+.mobile-1-838-container {
+  position: relative;
+  line-height: 24px;
+}
+.frame-parent39 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.image-icon19 {
+  width: 14px;
+  height: 14px;
+  position: relative;
+}
+.image-wrapper11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3.8px;
+}
+.supportyohomobilecom {
+  color: #ff9000;
+}
+.email-supportyohomobilecom {
+  position: relative;
+  line-height: 24px;
+}
+.frame-parent40,
+.heading-4-contact-info-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.heading-4-contact-info-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8.9px;
+}
+.heading-45 {
+  position: relative;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 96px;
+}
+.about-us1,
+.blog1,
+.contact,
+.partnership1 {
+  display: block;
+}
+.link-about-container1 {
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 30px;
+  color: #222;
+}
+.heading-4-yoho-mobile-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 9px 0 0;
+  gap: 6px;
+}
+.heading-46 {
+  position: relative;
+  font-weight: 700;
+}
+.cancellation-refund1,
+.delivery-policy1,
+.payment-guideline1,
+.privacy-policy1,
+.terms-of-use1 {
+  display: block;
+}
+.link-terms-container1 {
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 30px;
+  color: #222;
+}
+.heading-4-legal-information-group {
+  width: 205px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 6px;
+}
+.heading-47 {
+  position: relative;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 91px;
+  white-space: nowrap;
+}
+.esim-compatible-devices1,
+.faqs1,
+.how-to-set2 {
+  display: block;
+}
+.link-esim-container1 {
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 30px;
+  color: #222;
+}
+.heading-4-get-started-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.footer-inner,
+.frame-parent37 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent37 {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.footer-inner {
+  width: 1095.5px;
+  justify-content: flex-start;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+.yoho-mobile-all2 {
+  position: relative;
+  font-size: 14.4px;
+  line-height: 38px;
+}
+.back-toppng-icon {
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  margin: 0 !important;
+  right: 30px;
+  bottom: 30px;
+  border-radius: 4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.footer {
+  align-self: stretch;
+  background-color: #f5f5f8;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px 360px 135px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 60px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 1225px) {
+  .frame-parent37 {
+    flex-wrap: wrap;
+  }
+  .footer {
+    padding-left: 180px;
+    padding-right: 180px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .footer {
+    gap: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .footer {
+    gap: 15px;
+    padding: 26px 20px 88px;
+    box-sizing: border-box;
+  }
+}
